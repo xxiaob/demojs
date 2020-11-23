@@ -1,5 +1,7 @@
-.box {}
-
 .wrap {
   height: 500px;
+}
+
+.box {
+  width: 100px;
 }
